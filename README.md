@@ -1,7 +1,7 @@
 # Vitaly Pugachev
 ## Full Stack Developer | AI & Virtual Assistant Specialist
 
-[CONTACT SECTION - PLEASE ADD]
+## CONTACTS
 - 📍 Location: Toronto, Ontario, Canada
 - 📧 Email: vitaly.pugachev@cibc.com
 - 📱 Phone: +16477130342
